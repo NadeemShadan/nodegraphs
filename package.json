@@ -1,0 +1,33 @@
+{
+  "name": "nodegraphs",
+  "version": "1.0.0",
+  "description": "Line charts drawn on canvas, using canvas module and D3 charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadeemShadan/nodegraphs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "graphs",
+    "nodegraphs",
+    "d3",
+    "d3node",
+    "linecharts",
+    "canvas",
+    "canvas charts"
+  ],
+  "author": "Nadeem Shadan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadeemShadan/nodegraphs/issues"
+  },
+  "homepage": "https://github.com/NadeemShadan/nodegraphs#readme",
+  "dependencies": {
+    "canvas": "^1.6.12",
+    "d3-node": "^2.0.1"
+  }
+}
