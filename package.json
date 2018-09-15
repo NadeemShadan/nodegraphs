@@ -28,6 +28,6 @@
   "homepage": "https://github.com/NadeemShadan/nodegraphs#readme",
   "dependencies": {
     "canvas": "^1.6.12",
-    "d3-node": "^2.0.1"
+    "d3": "^5.7.0"
   }
 }
