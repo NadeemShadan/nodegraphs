@@ -21,7 +21,7 @@
     "canvas charts"
   ],
   "author": "Nadeem Shadan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NadeemShadan/nodegraphs/issues"
   },
